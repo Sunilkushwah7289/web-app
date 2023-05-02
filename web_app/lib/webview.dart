@@ -35,7 +35,7 @@ class _WebViewState extends State<WebView> {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'Youtube Web Clone....',
+          'Youtube Web Clone',
           style: TextStyle(fontWeight: FontWeight.bold),
         ),
         backgroundColor: Colors.red,
